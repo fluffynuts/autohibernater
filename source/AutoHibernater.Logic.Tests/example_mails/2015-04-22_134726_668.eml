@@ -1,0 +1,15 @@
+Message-ID: <22731470.1429710446664.JavaMail.MOO$@MOO>
+From: ups@ups.com
+To: email_reciver@test.com
+Subject: AC failure
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_12_2237382.1429710446663"
+
+------=_Part_12_2237382.1429710446663
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+USB2533B3A6;  Event: AC failure;  Type: Input event;  Contact: test;  DateTime: 2015-04-22 15:47:26
+------=_Part_12_2237382.1429710446663--
+
