@@ -3,6 +3,8 @@ a small win32 service to marshal email alert events from an RCT ups into hiberna
   
 # What you will need  
 1) ViewPower (http://www.power-software-download.com/viewpower.html)  
+    install and ensure that it starts up with your machine  
+    (perhaps link into your shell:startup folder)  
 2) An RCT UPS (or another which works with ViewPower -- not sure if there even are?)  
 3) Your PC actually on the UPS...  
 4) A USB cable from your UPS to your PC (long USB printer cable)  
