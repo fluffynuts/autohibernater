@@ -12,6 +12,7 @@ namespace AutoHibernater
         {
             ServiceName = "AutoHibernater";
             DisplayName = "UPS Automatic hibernation";
+            Interval = 3600;
         }
 
         private AutoDisposer _disposer;
